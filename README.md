@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/jkurtrussellemarmol@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:jkurtrussellemarmolg@gmail.com)
 <img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
 
-I'm a second year BSCpE student pursuing Web Development, CISCO Networking, Robotics and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies. <br>
+I'm a second year BSCpE student from Philippines pursuing Web Development, CISCO Networking, Robotics and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies. <br>
 <img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="250" height="210"/>
 
 - 🌱 I’m currently focusing on **Web Development** and practicing **PERN Stack** everyday.
