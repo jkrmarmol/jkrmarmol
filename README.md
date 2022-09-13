@@ -2,7 +2,8 @@
 
 [![linkedin badge](https://img.shields.io/badge/jkrmarmol-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/jkrmarmol/)
 [![Gmail Badge](https://img.shields.io/badge/jkurtrussellemarmol@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:jkurtrussellemarmolg@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=tanyagupta0201&style=plastic" />
+[![Facebook Badge](https://img.shields.io/badge/jkrmarmol-30302f?style=flat&logo=facebook)](https://facebook.com/jkrmarmol)
+[![Medium badge](https://img.shields.io/badge/xkurtph-30302f?style=flat&logo=medium)](https://xkurtph.medium.com/)
 
 I'm a second year BSCpE student from Philippines pursuing Web Development, CISCO Networking, Robotics and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies. <br>
 <img align='right' src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="img" width="250" height="210"/>
