@@ -15,7 +15,7 @@ I'm a second year BSCpE student from Philippines pursuing Web Development, CISCO
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Framework and Tools:</h3>
 <p align="left"> 
 
 <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
