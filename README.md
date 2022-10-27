@@ -28,10 +28,13 @@ I'm a second year BSCpE student from Philippines pursuing Web Development, CISCO
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 <img src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2" alt="express" width="40" height="40" />
 <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="html5" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="html5" width="40" height="40" />
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
 <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+  
 
 
 </p>
