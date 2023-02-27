@@ -22,23 +22,25 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+<img src="https://img.icons8.com/color/256/sass.png" alt="sass" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 <img src="https://img.icons8.com/fluent/48/4a90e2/typescript.png"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
 <img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="40" width="40" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+<img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png" alt="react-native" width="60" height="42" />
 <img src="https://img.icons8.com/color/48/redux" alt="redux" height="40" width="40" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 <img src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2" alt="express" width="40" height="40" />
 <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="html5" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://img.icons8.com/color/512/mongodb.png" alt="mongodb" width="40" height="40"/>
+<img src="https://img.icons8.com/color/512/mongodb.png" alt="mongodb" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
 <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  
+<img src="https://img.icons8.com/fluency/256/figma.png" alt="sass" width="40" height="40"/>
 
 
 </p>
