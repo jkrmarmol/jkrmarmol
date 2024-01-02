@@ -44,4 +44,6 @@
 <img src="https://img.icons8.com/?size=256&id=4PiNHtUJVbLs&format=png" alt="tailwind" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=256&id=r2OarXWQc7B6&format=png" alt="nextjs" width="40" height="40" color="white"/>
 <img src="https://img.icons8.com/?size=256&id=zJh5Gyrd6ZKu&format=png" alt="prisma" width="40" height="40" color="white"/>
+<img src="https://styles.redditmedia.com/t5_50pu61/styles/communityIcon_90xo2g5r2jm71.jpg?format=pjpg&s=16a2f9d479e9e606718aa1f3f7eab8ca017e3150" alt="expo" width="40" height="40" color="white"/>
+
 </div>
