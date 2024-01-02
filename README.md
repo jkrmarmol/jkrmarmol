@@ -19,6 +19,7 @@
 
 ### **Languages, Framework and Tools:**
 
+<div style="display: flex; flex-wrap: wrap">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 <img src="https://img.icons8.com/color/256/sass.png" alt="sass" width="40" height="40"/>
@@ -43,3 +44,4 @@
 <img src="https://img.icons8.com/?size=256&id=4PiNHtUJVbLs&format=png" alt="tailwind" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=256&id=r2OarXWQc7B6&format=png" alt="nextjs" width="40" height="40" color="white"/>
 <img src="https://img.icons8.com/?size=256&id=zJh5Gyrd6ZKu&format=png" alt="prisma" width="40" height="40" color="white"/>
+</div>
