@@ -50,11 +50,10 @@ Hi there, I'm **Kurt Russelle Marmol** currently in my 4th year of college pursu
 ![Github](https://img.icons8.com/?size=50&id=12599&format=png&color=ffffff)
 ![Postman](https://img.icons8.com/?size=50&id=EPbEfEa7o8CB&format=png&color=000000)
 ![Figma](https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000)
-![Expo React Native](https://img.icons8.com/?size=50&id=IpN1evivrDWO&format=png&color=ffffff)
+![Expo React Native](https://img.icons8.com/?size=50&id=7ImWFDcPfSlz&format=png&color=ffffff)
 ![Docker](https://img.icons8.com/?size=50&id=cdYUlRaag9G9&format=png&color=000000)
 ![Deno](https://img.icons8.com/?size=50&id=T00iWBMf28np&format=png&color=ffffff)
 ![Recoil.js](https://img.icons8.com/?size=50&id=EXZGX2xYvaYn&format=png&color=ffffff)
 ![Bash CLI](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
 ![Electronjs](https://img.icons8.com/?size=50&id=97378&format=png&color=ffffff)
-
-<br>
+![Prisma](https://img.icons8.com/?size=50&id=aqb9SdV9P8oC&format=png&color=ffffff)
