@@ -26,6 +26,14 @@ Hi there, I'm **Kurt Russelle Marmol** currently in my 4th year of college pursu
 
 ➡️ [more blog posts...](https://xkurtph.medium.com/)
 
+## 🏆 Github Tropies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=jkrmarmol&theme=algolia)
+
+## 🎖️ Holopin badges
+
+[![An image of @jkrmarmol's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jkrmarmol)](https://holopin.io/@jkrmarmol)
+
 ## ⚡ Technologies
 
 ![React & React Native](https://img.icons8.com/?size=50&id=wPohyHO_qO1a&format=png&color=000000)
