@@ -6,9 +6,11 @@
 [![Medium badge](https://img.shields.io/badge/xkurtph-30302f?style=flat&logo=medium)](https://xkurtph.medium.com/)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jkrmarmol.jkrmarmol)
 
-Hi there, I'm **Kurt Russelle Marmol** currently in my 4th year of college pursuing a **BS Computer Engineering**. In addition to my studies, I have a passion for web development & mobile development.
+Hi there, I'm **Kurt Russelle Marmol** — a passionate developer actively contributing to open-source projects and building real-world solutions through hackathons. I enjoy turning ideas into impactful web and mobile applications, and I'm always excited to collaborate and learn from the developer community.
 
-### 🐱 More About Me:
+### 🐱 **More About Me**
+
+---
 
 - 🌱 &nbsp; I enjoy learning and experimenting with new technologies in my free time
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/jkrmarmol?tab=repositories)
@@ -19,22 +21,9 @@ Hi there, I'm **Kurt Russelle Marmol** currently in my 4th year of college pursu
 
 <br>
 
-### 📕 Latest Blog Posts
+### ⚡ **Technologies**
 
-- [How I access other domains in infinityfree.net using Directory Traversal](https://xkurtph.medium.com/how-i-access-other-domains-in-infinityfree-net-using-directory-traversal-4625692d6a2d)
-- [How can I buy any product and pay only $1 — Client-Side Injection](https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f)
-
-➡️ [more blog posts...](https://xkurtph.medium.com/)
-
-## 🏆 Github Tropies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=jkrmarmol&theme=algolia)
-
-## 🎖️ Holopin badges
-
-[![An image of @jkrmarmol's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jkrmarmol)](https://holopin.io/@jkrmarmol)
-
-## ⚡ Technologies
+---
 
 ![React & React Native](https://img.icons8.com/?size=50&id=wPohyHO_qO1a&format=png&color=000000)
 ![Sass](https://img.icons8.com/?size=50&id=QBqFNfPPB2Kx&format=png&color=000000)
@@ -50,6 +39,7 @@ Hi there, I'm **Kurt Russelle Marmol** currently in my 4th year of college pursu
 ![Expressjs](https://img.icons8.com/?size=50&id=kg46nzoJrmTR&format=png&color=ffffff)
 ![Nestjs](https://img.icons8.com/?size=50&id=9ESZMOeUioJS&format=png&color=000000)
 ![Supabase](https://img.icons8.com/?size=50&id=grZaE9tjqDyr&format=png&color=000000)
+![Firebase](https://img.icons8.com/?size=50&id=62452&format=png&color=ffffff)
 ![MySQL](https://img.icons8.com/?size=50&id=rgPSE6nAB766&format=png&color=ffffff)
 ![PostgreSQL](https://img.icons8.com/?size=50&id=38561&format=png&color=ffffff)
 ![MongoDB](https://img.icons8.com/?size=50&id=74402&format=png&color=000000)
@@ -61,7 +51,49 @@ Hi there, I'm **Kurt Russelle Marmol** currently in my 4th year of college pursu
 ![Expo React Native](https://img.icons8.com/?size=50&id=7ImWFDcPfSlz&format=png&color=ffffff)
 ![Docker](https://img.icons8.com/?size=50&id=cdYUlRaag9G9&format=png&color=000000)
 ![Deno](https://img.icons8.com/?size=50&id=T00iWBMf28np&format=png&color=ffffff)
-![Recoil.js](https://img.icons8.com/?size=50&id=EXZGX2xYvaYn&format=png&color=ffffff)
 ![Bash CLI](https://img.icons8.com/?size=50&id=9MJf0ngDwS8z&format=png&color=000000)
 ![Electronjs](https://img.icons8.com/?size=50&id=97378&format=png&color=ffffff)
 ![Prisma](https://img.icons8.com/?size=50&id=aqb9SdV9P8oC&format=png&color=ffffff)
+![GraphQL](https://img.icons8.com/?size=50&id=zdI5E8moxhs-&format=png&color=ffffff)
+![Apollo](https://img.icons8.com/?size=50&id=ktSS1TBte4xa&format=png&color=ffffff)
+
+---
+
+<details>
+    <summary>&#128240 
+    <b>Latest Blogs Posts</b>
+    </summary><br/>
+
+- [How I access other domains in infinityfree.net using Directory Traversal](https://xkurtph.medium.com/how-i-access-other-domains-in-infinityfree-net-using-directory-traversal-4625692d6a2d)
+- [How can I buy any product and pay only $1 — Client-Side Injection](https://xkurtph.medium.com/shopify-plugin-bypass-using-client-side-injection-thru-api-implementation-vulnerability-710d25105c8f)
+
+- ➡️ [more blog posts...](https://xkurtph.medium.com/)
+
+</details>
+
+<details>
+    <summary>🏆
+    <b>Github Trophies</b>
+    </summary><br/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=jkrmarmol&theme=algolia)
+
+</details>
+
+<details>
+    <summary>🏆
+    <b>Holopin badges</b>
+    </summary><br/>
+
+[![An image of @jkrmarmol's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jkrmarmol)](https://holopin.io/@jkrmarmol)
+
+</details>
+
+---
+
+Built with ☕, Always hacking, learning, and shipping cool stuff.
+
+Let’s build something awesome together!
+
+📫 Reach out: **[jkurtrussellemarmol@gmail.com](mailto:jkurtrussellemarmol@gmail.com)**  
+🌐 Explore more: **[jkrmarmol.dev](https://jkrmarmol.dev)** • **[LinkedIn](https://linkedin.com/in/jkrmarmol)**
