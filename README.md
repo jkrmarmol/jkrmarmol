@@ -60,7 +60,57 @@ Hi there, I'm **Kurt Russelle Marmol** — a passionate developer actively contr
 ---
 
 <details>
-    <summary>&#128240 
+    <summary>🔓
+    <b>Hackathon & Competition</b>
+    </summary><br/>
+
+- **DLSU Innovation and Technology Fair 2025** - **Exhibition & Pitching Presentation** - **Participation**
+
+  - Exhibit & presented our project that helps patients and users identify the potential causes of their pain using AI.
+
+- **ICCT Colleges** - **“Engineering Day 2025”** - **1st Runner Up**
+
+  - Developed a kiosk & mobile apps for school system to automate the process of requesting and releasing of records and credentials.
+
+- **Old.ST** - **“C(old) (St)art Hackathon 2024”** - **Fan Favorite UX Design**
+
+  - Design a web application that helps reseller and buyer to ship their items with the help of a courier service.
+
+- **BPI** - **“D.A.T.A Wave 2024 Hackathon”** - **Participation**
+
+  - Submitted a project that helps HR to report performance of their employees using AI and Machine Learning.
+
+- **OTisPH** - **“AppCon 2023”** - **Top 20 Finalist**
+
+  - Developed Care Ease, a mobile application that helps users and patients identify the potential causes of their pain using AI.
+
+- **Google Developer Student Club PLM** - **“InnOlympics 2024”** - **Top 10 Finalist**
+
+  - Developed a social platform for missing persons and their families to connect and share information.
+
+- **Connext Global** - **“AI Hackathon”** – **Participation**
+
+  - Developed a chatbot for a company to help customers with their inquiries.
+
+- **Huawei ICT Academy** - **“Innovation Track”** – **Top 5 Finalist**
+
+  - Developed Care Ease, a mobile application that helps users and patients identify the potential causes of their pain using AI.
+
+- **ICCT Colleges** - **“ITech 2023 Hackathon”** – **2nd place**
+
+  - Developed an application for getting a million e-books for free.
+
+- **Google Developer Student Club USC** - **“Show us ur Rizz”** – **Champion**
+
+  - Developed an application for getting a million e-books for free.
+
+- **The BLOKC** - **“Unblock Hackathon”** – **People Choice Award**
+  - Developed an Electronic Health Record (ERD) System using Blockchain technology.
+
+</details>
+
+<details>
+    <summary>📰
     <b>Latest Blogs Posts</b>
     </summary><br/>
 
@@ -81,7 +131,7 @@ Hi there, I'm **Kurt Russelle Marmol** — a passionate developer actively contr
 </details>
 
 <details>
-    <summary>🏆
+    <summary>📛
     <b>Holopin badges</b>
     </summary><br/>
 
