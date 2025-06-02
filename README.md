@@ -144,6 +144,5 @@ Hi there, I'm **Kurt Russelle Marmol** — a passionate developer actively contr
 Built with ☕, Always hacking, learning, and shipping cool stuff.
 
 Let’s build something awesome together!
-
-📫 Reach out: **[jkurtrussellemarmol@gmail.com](mailto:jkurtrussellemarmol@gmail.com)**  
+ 
 🌐 Explore more: **[jkrmarmol.dev](https://jkrmarmol.dev)** • **[LinkedIn](https://linkedin.com/in/jkrmarmol)**
